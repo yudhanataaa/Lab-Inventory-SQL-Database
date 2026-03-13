@@ -27,5 +27,3 @@ The database consists of three main interconnected tables:
 2. **Usage Tracking:** A fully joined log showing the date, item name, researcher name, quantity used, and the specific experimental purpose (e.g., "PCR amplification").
 3. **Resource Consumption:** Aggregates total material used grouped by category.
 
-## 🚀 How to Run
-This is a standard ANSI SQL script. You can run `lab_inventory.sql` on any SQL database engine such as **MySQL, PostgreSQL, or SQLite**, or test it online using platforms like [DB Fiddle](https://www.db-fiddle.com/).
